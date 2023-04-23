@@ -16,4 +16,4 @@ I tamper video games as a hobby
 
 ## Contact information
 
-- [Gmail](https://stagvant@gmail.com)
+- Email: stagvant@gmail.com
