@@ -4,7 +4,7 @@ I tamper video games as a hobby
 
 ## Developed the following plugins for Playstation4 system
 
-- [Bloodborne developer menu and cutscene debug camera](https://github.com/stagvant/BBDBG)
+- [Bloodborne developer menu and overworld debug camera](https://github.com/stagvant/BBDBG)
 - [Elden Ring overworld debug camera and gameplay tweaks](https://github.com/stagvant/ERDBG)
 - [Dark Souls 3 developer menu and overworld debug camera](https://github.com/stagvant/DSDBG)
 
