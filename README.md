@@ -4,6 +4,7 @@ I tamper video games as a hobby
 
 ## Developed the following plugins for Playstation4 system
 
+- [Sekiro Shadows Die Twice overworld debug camera](https://github.com/stagvant/SKDBG)
 - [Dark Souls Remastered overworld debugging camera](https://github.com/stagvant/DRDBG)
 - [Bloodborne developer menu and overworld debug camera](https://github.com/stagvant/BBDBG)
 - [Elden Ring overworld debug camera and gameplay tweaks](https://github.com/stagvant/ERDBG)
